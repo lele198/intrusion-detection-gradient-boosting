@@ -40,3 +40,12 @@ The goal of this project is to classify network traffic as normal or anomalous u
 
 ## Author
 Aliyah Benson
+## How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Open the notebook:
+   jupyter notebook
+
+3. Run all cells to train and evaluate the model
